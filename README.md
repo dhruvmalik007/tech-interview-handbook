@@ -53,6 +53,8 @@ Also, existing resources focus mainly on algorithm questions, and lack in covera
   - [Psychological Tricks](non-technical/psychological-tricks.md)
   - [Questions to Ask](non-technical/questions-to-ask.md)
   - [Negotiation Tips](non-technical/negotiation.md)
+  -[Evaluation Parameters](non-technical/EvaluationParameters.md)
+
 - **[Utilities](utilities)** - Snippets of algorithms/code that will help in coding questions
 
 ## Contributing
